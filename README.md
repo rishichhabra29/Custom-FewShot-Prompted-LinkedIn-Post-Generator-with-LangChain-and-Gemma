@@ -32,9 +32,9 @@ Click “Generate” to see your custom LinkedIn post.
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project overview (this file)
 
-Example Screenshot
+## Example Screenshot
 
-![App Screenshot](assets/Screenshot.png)
+![App UI](./Screenshot.png)
 
 
 
