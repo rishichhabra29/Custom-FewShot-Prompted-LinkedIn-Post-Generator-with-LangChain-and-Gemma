@@ -31,9 +31,10 @@ Click “Generate” to see your custom LinkedIn post.
 ├── post_generator.py       # Gemma LLM generation logic
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project overview (this file)
+
 Example Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/rishichhabra29/Custom-FewShot-Prompted-LinkedIn-Post-Generator-with-LangChain-and-Gemma/main/assets/Screenshot.png)
+![App Screenshot](assets/Screenshot.png)
 
 
 
