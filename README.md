@@ -58,4 +58,4 @@ MIT License © Your Name
 
 ---
 
-Built by **Your Name** – unlock AI-powered social media content creation!
+Built by **Rishi Chhabra** – unlock AI-powered social media content creation!
