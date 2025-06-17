@@ -34,7 +34,7 @@ Click “Generate” to see your custom LinkedIn post.
 
 ## Example Screenshot
 
-![App UI](./Screenshot.png)
+![App UI](./assets/Screenshot.png)
 
 
 
