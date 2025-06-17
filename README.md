@@ -32,7 +32,7 @@ Click “Generate” to see your custom LinkedIn post.
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project overview (this file)
 Example Screenshot
-<img width="872" alt="image" src="https://github.com/user-attachments/assets/9cc6d8c1-3eea-4e00-857b-92d3c58e9a01" />
+<img width="872" alt="image" src[="https://github.com/user-attachments/assets/9cc6d8c1-3eea-4e00-857b-92d3c58e9a01](https://github.com/rishichhabra29/Custom-FewShot-Prompted-LinkedIn-Post-Generator-with-LangChain-and-Gemma/blob/main/Screenshot.png)" />
 
 
 Results
